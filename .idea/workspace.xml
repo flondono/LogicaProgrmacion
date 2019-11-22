@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio01/NumeroEsPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio02/NumeroMayor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TrJ5oA2DK8J3PM3YAFsLR5A8ca" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
   </component>
@@ -38,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NumeroMayor">
     <configuration name="NumeroEsPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio01.NumeroEsPar" />
       <module name="LogicaProgramacion" />
@@ -52,8 +54,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumeroMayor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio02.NumeroMayor" />
+      <module name="LogicaProgramacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumeroMayor" />
         <item itemvalue="Application.NumeroEsPar" />
       </list>
     </recent_temporary>
@@ -69,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1574212099239</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se realiza el ejercicio 1 del curso">
+      <created>1574388081409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574388081409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se realiza el ejercicio 1 del curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se realiza el ejercicio 1 del curso" />
   </component>
 </project>
