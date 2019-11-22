@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="" />
+    <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio03/OrdenarNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio03/OrdenarNumeros.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="fernando &lt;flondono89@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TrJ5oA2DK8J3PM3YAFsLR5A8ca" />
@@ -96,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574388688570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Se agrega el ejercicio 03">
+      <created>1574388896850</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574388896850</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se realiza el ejercicio 1 del curso" />
     <MESSAGE value="Se realiza el ejercicio 02 del curso NumeroMayor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se realiza el ejercicio 02 del curso NumeroMayor" />
+    <MESSAGE value="Se agrega el ejercicio 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega el ejercicio 03" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
