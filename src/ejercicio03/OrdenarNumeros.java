@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class OrdenarNumeros {
     public static void main(String[] args) {
 
+        //Creación objeto Scanner para leer datos del cliente
         Scanner entrada = new Scanner(System.in);
 
         System.out.print("Ingrese el primer número: ");
@@ -44,6 +45,5 @@ public class OrdenarNumeros {
                 System.out.println("El número menor es: " + c);
             }
         }
-
     }
 }
