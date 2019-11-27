@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicio03/OrdenarNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio03/OrdenarNumeros.java" afterDir="false" />
     </list>
@@ -21,17 +22,29 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="flondono &lt;flondono89@gmail.com&gt;" />
         <option value="fernando &lt;flondono89@gmail.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1TrJ5oA2DK8J3PM3YAFsLR5A8ca" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumeroMayor">
+  <component name="RunManager" selected="Application.OrdenarNumeros">
     <configuration name="NumeroEsPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio01.NumeroEsPar" />
       <module name="LogicaProgramacion" />
@@ -72,10 +85,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrdenarNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio03.OrdenarNumeros" />
+      <module name="LogicaProgramacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumeroMayor" />
+        <item itemvalue="Application.OrdenarNumeros" />
         <item itemvalue="Application.NumeroEsPar" />
+        <item itemvalue="Application.NumeroMayor" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574388896850</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Se agrega el ejercicio 03, se crea el main">
+      <created>1574389997971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574389997971</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +165,8 @@
     <MESSAGE value="Se realiza el ejercicio 1 del curso" />
     <MESSAGE value="Se realiza el ejercicio 02 del curso NumeroMayor" />
     <MESSAGE value="Se agrega el ejercicio 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega el ejercicio 03" />
+    <MESSAGE value="Se agrega el ejercicio 03, se crea el main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega el ejercicio 03, se crea el main" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
