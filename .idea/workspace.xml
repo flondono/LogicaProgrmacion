@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio04/NumeroMultiploOtro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1TrJ5oA2DK8J3PM3YAFsLR5A8ca" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -33,7 +35,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.NumeroMayor">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NumeroMultiploOtro">
     <configuration name="NumeroEsPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio01.NumeroEsPar" />
       <module name="LogicaProgramacion" />
@@ -60,24 +74,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumeroMultiploOtro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio04.NumeroMultiploOtro" />
+      <module name="LogicaProgramacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumeroMultiploOtro" />
         <item itemvalue="Application.NumeroMayor" />
         <item itemvalue="Application.NumeroEsPar" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -118,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574898658468</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Se crea rama develop">
+      <created>1575146934484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575146934484</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,13 +161,12 @@
     <MESSAGE value="Se realiza el ejercicio 1 del curso" />
     <MESSAGE value="Se realiza el ejercicio 02 del curso NumeroMayor" />
     <MESSAGE value="Se agrega comentario de la clase Scanner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega comentario de la clase Scanner" />
+    <MESSAGE value="Se crea rama develop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se crea rama develop" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="179" y="31" key="SettingsEditor" timestamp="1574990450712">
-      <screen x="0" y="27" width="1366" height="741" />
-    </state>
-    <state x="179" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1574990450712" />
+    <state x="179" y="31" key="SettingsEditor" />
+    <state x="179" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" />
   </component>
 </project>
