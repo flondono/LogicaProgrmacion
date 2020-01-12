@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e76ac5-4720-43c1-b6ed-834a57197d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio05/AnoBiciesto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio06/NominaSencilla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio06/NominaSencilla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio06/NominaSencilla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="flondono &lt;flondono89@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
@@ -38,13 +42,26 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.AnoBiciesto">
+  <component name="RunManager" selected="Application.NominaSencilla">
     <configuration name="AnoBiciesto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio05.AnoBiciesto" />
       <module name="LogicaProgramacion" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ejercicio05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NominaSencilla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio06.NominaSencilla" />
+      <module name="LogicaProgramacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NominaSencilla" />
         <item itemvalue="Application.AnoBiciesto" />
         <item itemvalue="Application.NumeroMultiploOtro" />
         <item itemvalue="Application.NumeroMayor" />
@@ -165,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575150264027</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Se cambia la configuración de git, y se añade un nuevo ejercicio">
+      <created>1577993856646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577993856646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,14 +212,47 @@
     <MESSAGE value="Se agrega comentario de la clase Scanner" />
     <MESSAGE value="Se crea rama develop" />
     <MESSAGE value="Se añade el ejercicio 04 numero multiplo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se añade el ejercicio 04 numero multiplo" />
+    <MESSAGE value="Se cambia la configuración de git, y se añade un nuevo ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se cambia la configuración de git, y se añade un nuevo ejercicio" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="317" y="0" key="CommitChangelistDialog2" timestamp="1577993849526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="317" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577993849526" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1577995910449">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577995910449" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1578002226009">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578002226009" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1578002226008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578002226008" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1578002225974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578002225974" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1578002226008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578002226008" />
     <state x="179" y="0" key="SettingsEditor" timestamp="1577409755262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="179" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1577409755262" />
     <state x="179" y="31" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1575250148406" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577993866368">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577993866368" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577996123759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577996123759" />
   </component>
 </project>
