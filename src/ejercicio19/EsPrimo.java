@@ -8,11 +8,18 @@ public class EsPrimo {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Ingrese número: ");
+        System.out.print("Ingrese número: ");
         int n = sc.nextInt();
 
-        
+        String aux = " es primo";
 
-        System.out.println("El número: " + n );
+        for (int i = 2; i < n; i++) {
+            if ((n % i) == 0) {
+                aux = " no es primo";
+                break;
+            }
+        }
+
+        System.out.println("El número: " + n + aux);
     }
 }
